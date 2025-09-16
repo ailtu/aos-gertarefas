@@ -1,1 +1,1 @@
-# aos-gertarefas
+O Objetivo da atividade é criar um projeto API RESTful para gerenciar tarefas em memória com CRUD
